@@ -16,6 +16,28 @@ The Goal Breakdown App is a tool designed to help you systematically break down 
 - **AI Integration:** We plan to incorporate an AI model to provide personalized recommendations for breaking down goals effectively.
 - **Monetization:** Beyond a certain depth (e.g., 3 tiers), access to advanced features will require a subscription.
 
+## Files
+    static: Contains static assets like stylesheets.
+
+    templates: Stores HTML templates.
+
+    app: Main application package.
+        init.py: Initialize the Flask app.
+        routes.py: Define the routes and views.
+        models.py: Define data models if you're using a database.
+
+    config.py: Configuration settings for your app.
+
+    requirements.txt: List of Python packages and versions needed for the project.
+
+    run.py: Script to run your Flask application.
+
+    .gitignore: Specifies files and directories to be ignored by version control.
+
+    README.md: Documentation for your project.
+
+    LICENSE.md: The license for your project.
+
 ## Usage
 
 1. Enter your main goal.
