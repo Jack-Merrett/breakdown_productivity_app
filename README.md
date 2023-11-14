@@ -38,6 +38,9 @@ The Goal Breakdown App is a tool designed to help you systematically break down 
 
     LICENSE.md: The license for your project.
 
+## Database
+1. MongoDB
+
 ## Usage
 
 1. Enter your main goal.
