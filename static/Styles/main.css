@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.pedigree {
+    padding: 20px;
+}
+
+.main-goal {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.branch {
+    background-color: #e0e0e0;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.sub-branches {
+    list-style: none;
+    padding: 0;
+}
+
+.sub-branches h3 {
+    background-color: #d0d0d0;
+    padding: 8px;
+    margin: 5px 0;
+    border-radius: 3px;
+}
+
+#pedigree {
+    cursor: grab;
+}
+
+.zoom-in, .zoom-out {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
