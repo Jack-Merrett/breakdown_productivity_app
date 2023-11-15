@@ -1,0 +1,179 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*~
+*.bak
+*.tmp
+*.tmp.*
+*.log
+*.pid
+*.db
+
+# Environment-specific files
+.env
+.env.local
+.env.*.local
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Environments
+.env
+.Python
+pip-log.txt
+
+# dotenv
+.env
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Python Imaging Library
+*.iml
+*.pyc
+
+# PyInstaller
+dist/
+build/
+
+# PyBuilder
+target/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+Pipfile
+
+# Tornado
+.log
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+.sageMath/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# [Django] SQL database
+*.db
+
+# [Django] local settings file
+local_settings.py
+
+# [Flask] instance folder
+instance/
+
+# [Flask] compiled python files
+*.pyc
+
+# [Flutter/Dart] build/
+.dart_tool/
+.flutter-plugins
+.packages
+.pubspec.lock
+.pubspec.yaml
+.build/
+
+# [Node.js] logs
+logs/
+*.log
+
+# [Node.js] runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# [Node.js] yarn
+.yarn-integrity/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
